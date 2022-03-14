@@ -1,0 +1,19 @@
+{
+  "digiAPI": [
+    {
+      "id": 1,
+      "nome": "Tai Kamiya",
+      "digimon": "Agumon",
+      "img": "https://static.wikia.nocookie.net/digimon/images/2/24/Taichi_%22Tai%22_Kamiya_t.gif/revision/latest?cb=20121019143002",
+      "imgDigimon": "https://preview.redd.it/ndphtolv9ub81.png?auto=webp&s=5a9ab3933d691d78bc4325006b74f6ee4331e7f2"
+    },
+    {
+      "id": 2,
+      "nome": "Matt Ishida",
+      "digimon": "Gabumon",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Mattishidayamatoone.jpg",
+      "imgDigimon": "https://static.wikia.nocookie.net/tkoc/images/f/fd/Gabumon.png/revision/latest?cb=20150131091411&path-prefix=pt-br"
+    }
+    
+  ]
+}
